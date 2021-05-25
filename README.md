@@ -19,8 +19,6 @@
 [<img align="left" alt="API Based Developemnt" width="26px" src="https://e7.pngegg.com/pngimages/834/715/png-clipart-computer-icons-api-text-logo-thumbnail.png" />]
 [<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />]
 
-<br />
-<br />
 
 ### 📕 Latest Blog Posts
 
