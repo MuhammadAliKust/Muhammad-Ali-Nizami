@@ -1,6 +1,5 @@
 ### Hi there, I'm Muhammad Ali Nizami, Flutter Developer 👋
 
-[![Website](https://kustalics.medium.com/)](https://medium.com)
 
 ## I'm a Student, Developer and also Teaching Flutter Development!!
 
@@ -13,7 +12,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png" />]
-[<img align="left" alt="Dart" width="26px" src="![image](https://user-images.githubusercontent.com/84806622/119552760-543d5280-bdb4-11eb-88cb-9ac064e5a0fb.png)" />]
+[<img align="left" alt="Dart" width="26px" src="https://user-images.githubusercontent.com/84806622/119552760-543d5280-bdb4-11eb-88cb-9ac064e5a0fb.png" />]
 [<img align="left" alt="Flutter" width="26px" src="https://logowik.com/content/uploads/images/flutter5786.jpg" />]
 [<img align="left" alt="Firestore" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="Cloud Function" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
