@@ -17,7 +17,7 @@
 [<img align="left" alt="Firestore" width="26px" src="https://cms-assets.tutsplus.com/uploads/users/1499/posts/27926/preview_image/firebase_logo.png" />]
 [<img align="left" alt="Cloud Messagin" width="26px" src="https://static.invertase.io/assets/firebase/cloud-messaging.svg" />]
 [<img align="left" alt="API Based Developemnt" width="26px" src="https://e7.pngegg.com/pngimages/834/715/png-clipart-computer-icons-api-text-logo-thumbnail.png" />]
-[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />]
+[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][]
 
 
 ### 📕 Latest Blog Posts
