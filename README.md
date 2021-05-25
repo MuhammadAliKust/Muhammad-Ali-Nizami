@@ -13,8 +13,16 @@
 - ### BCS<br/>
     2018-22<br/>
     Kohat University of Science and Technology, Kohat
+    
+<br />
+
+### Experience
+
+- Working at Infusible Coders as a Flutter Developer since July, 2020
+
 
 <br />
+
 
 ### Languages, Tools and Technologies| I am working on:
 
@@ -34,6 +42,12 @@
 - [How to avoid overflow while using Row in Flutter](https://kustalics.medium.com/avoid-overflow-error-while-using-row-in-flutter-7fd02f7039f0)
 <!-- BLOG-POST-LIST:END -->
 
+
+### 📕 Recent Projects
+
+<!-- BLOG-POST-LIST:START -->
+- [How to avoid overflow while using Row in Flutter](https://kustalics.medium.com/avoid-overflow-error-while-using-row-in-flutter-7fd02f7039f0)
+<!-- BLOG-POST-LIST:END -->
 
 
 
