@@ -10,8 +10,8 @@
 
 ### Qualification:
 
-- BCS
-    2018-22
+- BCS<br/>
+    2018-22<br/>
     Kohat University of Science and Technology, Kohat
 
 <br />
