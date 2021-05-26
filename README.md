@@ -41,6 +41,11 @@
 - Payment Gateways| Stripe, Paypal
 - API Based Development
 - Push Notifications
+- Google APIS - Routing and Navigations
+- Chats
+- Streams
+- Providers
+- Local Storage
 
 
 ### 📕 Latest Blog Posts
