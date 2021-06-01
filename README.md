@@ -55,11 +55,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### 🏡 Recent Projects
-
-<!-- BLOG-POST-LIST:START -->
-- [How to avoid overflow while using Row in Flutter](https://kustalics.medium.com/avoid-overflow-error-while-using-row-in-flutter-7fd02f7039f0)
-<!-- BLOG-POST-LIST:END -->
-
 
 
